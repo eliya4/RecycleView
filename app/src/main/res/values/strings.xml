@@ -1,19 +1,21 @@
 <resources>
     <string name="app_name">RecycleView</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="text_1">This is text 1.</string>
-    <string name="text_2">Welcome to my app.</string>
-    <string name="text_3">Lorem ipsum dolor sit amet.</string>
-    <string name="text_4">Android development is fun!</string>
-    <string name="text_5">Don\'t forget to subscribe!</string>
-    <string name="text_6">This is a test message.</string>
-    <string name="text_7">Have a great day!</string>
-    <string name="text_8">Thank you for using our app.</string>
-    <string name="text_9">Follow us on social media.</string>
-    <string name="text_10">Explore the possibilities.</string>
-    <string name="text_11">Coding is life!</string>
-    <string name="text_12">Stay positive and keep coding.</string>
-    <string name="text_13">Learn, code, repeat.</string>
-    <string name="text_14">Keep calm and debug on.</string>
-    <string name="text_15">The sky is the limit.</string>
+        <string-array name="items_array">
+            <item>Item 1</item>
+            <item>Item 2</item>
+            <item>Item 3</item>
+            <item>Item 4</item>
+            <item>Item 5</item>
+            <item>Item 6</item>
+            <item>Item 7</item>
+            <item>Item 8</item>
+            <item>Item 9</item>
+            <item>Item 10</item>
+            <item>Item 11</item>
+            <item>Item 12</item>
+            <item>Item 13</item>
+            <item>Item 14</item>
+            <item>Item 15</item>
+        </string-array>
+
 </resources>
